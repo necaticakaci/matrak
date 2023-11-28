@@ -10,7 +10,7 @@ Matrak Verilog donanım tanımlama dili ile sıfırdan tasarlanmış bir RISC-V 
 
 :heavy_check_mark: Nexys A7 üzerinde 50 Mhz saat frekansı
 
-:heavy_check_mark: Düşük kaynak tüketimi (çekirdek: 768 LUT, 126 FF)
+:heavy_check_mark: Düşük kaynak tüketimi (çekirdek: 788 LUT, 126 FF)
 
 :heavy_check_mark: Kolaylıkla anlaşılabilir.
 
