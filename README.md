@@ -1,5 +1,3 @@
-# matrak
-
 <p><img src="matrak.png" height="100"/></p>
 
 Matrak Verilog donanım tanımlama dili ile sıfırdan tasarlanmış bir RISC-V işlemcidir. Tasarım aşamaları [bu adreste](https://necaticakaci.github.io/) detaylıca anlatılmıştır.
